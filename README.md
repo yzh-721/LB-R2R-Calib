@@ -6,7 +6,7 @@ After calibration, the distribution of radar point clouds is as follows: the red
 
 The registered point cloud trajectories in other scenarios.
 
-<img src="https://github.com/yzh-721/LB-R2R-Calib/blob/main/GGPara.gif" width="450" height="300" alt="GGPara"/>    <img src="https://github.com/yzh-721/LB-R2R-Calib/blob/main/GGPerp.gif" width="450"  height="300" alt="GGPerp"/><br/>
+<img src="https://github.com/yzh-721/LB-R2R-Calib/blob/main/GGPara.gif" width="350" height="250" alt="GGPara"/>    <img src="https://github.com/yzh-721/LB-R2R-Calib/blob/main/GGPerp.gif" width="350"  height="250" alt="GGPerp"/><br/>
 ## Introduction
 LB-R2R-Calib is a new algorithm to rapidly and robustly locate the target and extract the target center from  very cluttered 4D radar point cloud, based on an important observation of the 4D radar.
 ### Motivation
