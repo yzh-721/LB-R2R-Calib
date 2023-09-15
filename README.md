@@ -1,9 +1,12 @@
 # LB-R2R-Calib
-Accurate and Robust Extrinsic Calibration of Multiple Long Baseline 4D Imaging Radars for V2X
-![Image text](https://github.com/yzh-721/LB-R2R-Calib/blob/main/GGPara.gif)
-![Image text](https://github.com/yzh-721/LB-R2R-Calib/blob/main/GGPara_z_backgroud.gif)
-![Image text](https://github.com/yzh-721/LB-R2R-Calib/blob/main/GGPerp.gif)
 
+After calibration, the distribution of radar point clouds is as follows: the red point cloud represents radar 1, the green point cloud represents radar 2, and the center trajectory is marked with larger-sized points.
+
+<img src="https://github.com/yzh-721/LB-R2R-Calib/blob/main/GGPara_z_backgroud.gif" alt="GGPara_z"/>
+
+The registered point cloud trajectories in other scenarios.
+
+<img src="https://github.com/yzh-721/LB-R2R-Calib/blob/main/GGPara.gif" width="500" height="300" alt="GGPara"/>    <img src="https://github.com/yzh-721/LB-R2R-Calib/blob/main/GGPerp.gif" width="500"  height="300" alt="GGPerp"/><br/>
 ## Introduction
 LB-R2R-Calib is a new algorithm to rapidly and robustly locate the target and extract the target center from  very cluttered 4D radar point cloud, based on an important observation of the 4D radar.
 ### Motivation
