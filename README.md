@@ -1,4 +1,5 @@
 # LB-R2R-Calib
+* Note: The paper is under review.  Here is a video to show the experiments.
 <a href="https://www.youtube.com/watch?v=-CTvf2iuDv0">
   <img src="https://github.com/yzh-721/LB-R2R-Calib/blob/main/youtube-logo.jpg" alt="Watch the video" width="100" height="50">
 </a>
