@@ -9,6 +9,9 @@
 
 After calibration, the distribution of radar point clouds is as follows: the red point cloud represents radar 1, the green point cloud represents radar 2, and the center trajectory is marked with larger-sized points.
 
+<img src="https://github.com/yzh-721/LB-R2R-Calib/blob/main/gif-human target.gif" width="800"  alt="GGPara_human"/>
+<img src="https://github.com/yzh-721/LB-R2R-Calib/blob/main/gif-raw and center.gif" width="800"  alt="GGPara_center"/>
+
 <img src="https://github.com/yzh-721/LB-R2R-Calib/blob/main/GGPara_z_backgroud.gif" alt="GGPara_z"/>
 
 The registered point cloud trajectories in other scenarios.
